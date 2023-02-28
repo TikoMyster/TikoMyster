@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TikoMyster
 - 👀 I’m interested in Video Games, Sports and anime.
-- 🌱 I’m currently learning HTML, Javascript and CSS.
+- 🌱 I’m proficient in HTML, Javascript, CSS, Node, React and SQL.
 - 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me: email - tikomyster20@gmail.com.
 
